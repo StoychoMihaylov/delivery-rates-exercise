@@ -5,6 +5,7 @@ Write some code that will price a delivery order of up to three items from one a
 
 ### Charges
 There are three package types, and two delivery types. The rates are:
+
 ![image](https://user-images.githubusercontent.com/22403800/139968960-a4c8b40d-8d42-4148-81d9-b3a22bbf69d3.png)
 
 ### More Rules

@@ -1,0 +1,12 @@
+C:\Users\stmih\source\repos\DeliveryRates\DeliveryRates\bin\Debug\net5.0\DeliveryRates.deps.json
+C:\Users\stmih\source\repos\DeliveryRates\DeliveryRates\bin\Debug\net5.0\DeliveryRates.dll
+C:\Users\stmih\source\repos\DeliveryRates\DeliveryRates\bin\Debug\net5.0\ref\DeliveryRates.dll
+C:\Users\stmih\source\repos\DeliveryRates\DeliveryRates\bin\Debug\net5.0\DeliveryRates.pdb
+C:\Users\stmih\source\repos\DeliveryRates\DeliveryRates\obj\Debug\net5.0\DeliveryRates.csprojAssemblyReference.cache
+C:\Users\stmih\source\repos\DeliveryRates\DeliveryRates\obj\Debug\net5.0\DeliveryRates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stmih\source\repos\DeliveryRates\DeliveryRates\obj\Debug\net5.0\DeliveryRates.AssemblyInfoInputs.cache
+C:\Users\stmih\source\repos\DeliveryRates\DeliveryRates\obj\Debug\net5.0\DeliveryRates.AssemblyInfo.cs
+C:\Users\stmih\source\repos\DeliveryRates\DeliveryRates\obj\Debug\net5.0\DeliveryRates.csproj.CoreCompileInputs.cache
+C:\Users\stmih\source\repos\DeliveryRates\DeliveryRates\obj\Debug\net5.0\DeliveryRates.dll
+C:\Users\stmih\source\repos\DeliveryRates\DeliveryRates\obj\Debug\net5.0\ref\DeliveryRates.dll
+C:\Users\stmih\source\repos\DeliveryRates\DeliveryRates\obj\Debug\net5.0\DeliveryRates.pdb

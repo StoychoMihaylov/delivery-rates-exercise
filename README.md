@@ -5,14 +5,7 @@ Write some code that will price a delivery order of up to three items from one a
 
 ### Charges
 There are three package types, and two delivery types. The rates are:
-
-
-------------------------------------------------------
-| Delivery | Documents | Small Parcel | Large Parcel |
-| Same Day | €4,00     | €7,00        | €9,00        |
-| Two Days | €1,00     | €2,50        | €3,00        |
-------------------------------------------------------
-
+![image](https://user-images.githubusercontent.com/22403800/139968960-a4c8b40d-8d42-4148-81d9-b3a22bbf69d3.png)
 
 ### More Rules
 There are some extra complications about how items are priced.
